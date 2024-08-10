@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+nav {
+    background: #e67a00;
+    width: 100%;
+    height: 60px;
+}
+
+.logo {
+
+    padding: 8px 80px;
+
+}
+
+.logo a {
+    font-size: 23px;
+    color: white;
+    padding: 26px;
+    text-decoration: none;
+
+}
+
+.header-shadow {
+    background-color: #be6907;
+    box-shadow: -29px -23px 158px -28px #BE6906;
+}
+
+
+
+.banner {
+    background: url(https://bestschool.net.in/templates/purity_iii/images/bg.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    box-sizing: cover;
+
+
+}
+
+.banner h1 {
+    text-align: center;
+    padding-top: 120px;
+    color: white;
+    font-size: 50px;
+}
+
+.banner h2 {
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    font-size: 30px;
+}
+
+.banner input {
+    width: 600px;
+    height: 40px;
+    font-size: 17px;
+    background: #2d2929cf;
+    border: none;
+    outline: none;
+    border-radius: 1px;
+    text-transform: uppercase;
+    box-shadow: 3px 3px 3px black;
+}
+
+::placeholder {
+    color: white;
+}
+
+.a {
+    width: 100%;
+    padding: 140px 200px;
+    text-align: center;
+}
+
+.a h1 {
+    width: 100%;
+    height: 375px;
+    text-align: center;
+    font-size: 43px;
+    padding: 5px;
+
+}
+
+.a p {
+    text-align: center;
+    font-size: 23px;
+    margin: -311px;
+}
+
+.b {
+
+    border: 5px solid;
+    height: 350px;
+    width: 466px;
+    float: left;
+    margin: 20px;
+    margin-left: 20px;
+    position: relative;
+}
+
+
+
+.img-box {
+    background: url(../image/top_schools_of_Mumbai\ \(1\).png);
+    height: 340px;
+    width: 456px;
+    position: relative;
+    display: flex;
+    justify-content: center; 
+    align-items: flex-end; 
+}
+
+.city-txt {
+    position: absolute;
+    color: white;
+    font-size: 20px;
+}
+
+.b button {
+    width: 244px;
+    height: 63px;
+    background: #e67a00;
+    color: white;
+    font-size: 29px;
+    border: none;
+    border-radius: 35px;
+    margin-top: 54px;
+    margin-left: -378px;
+}
+.pera{
+    width: 100%;
+    height: 60px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.pera p{
+    font-size: medium;
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    width: 100%;
+}
+
+.button-container button {
+    width: 244px;
+    height: 63px;
+    background: #e67a00;
+    color: white;
+    font-size: 29px;
+    border: none;
+    border-radius: 35px;
+    margin-top: 60px;
+}
+
+.button-container p {
+    width: 213%;
+    height: auto;
+    font-size: 30px;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: -727px;
+    font-style: italic;
+}
+.button-container h5{
+    margin-top: 16px;
+    margin-left: -381px;
+    font-size: 30px;
+    font-style: italic;
+}
+.b h4{
+    text-align: center;
+    margin-top: -23px;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px black;
+
+}
